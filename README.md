@@ -3,7 +3,7 @@ A role-play game about managing a country's financial decisions and minimizing h
 
 We recommend reading our [Player Manual](https://github.com/m7yash/HungerGame/blob/0385cd296509951b48202f8a7a053429e4c5db68/HUNGER-PlayerManual.pdf) – the math you need to think about to win the game is somewhat complex.
 
-This game was made in collaboration with 3 other students at my university (University of Washington). We used Scrum framework for development.
+This game was made in collaboration with 3 other students at my university (University of Washington) in 2021.
 
 # How To Play
 - Download ```Hunger.py``` and whichever client you want to use
