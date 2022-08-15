@@ -1,10 +1,3 @@
-'''Hunger.py
-A SOLUZION problem formulation.  UPDATED SEPTEMBER 2021.
-The XML-like tags used here may not be necessary, in the end.
-But for now, they serve to identify key sections of this 
-problem formulation.  It is important that COMMON_CODE come
-before all the other sections (except METADATA), including COMMON_DATA.
-'''
 # <METADATA>
 SOLUZION_VERSION = "0.0"
 PROBLEM_NAME = "Hunger Crisis Simulation"
@@ -12,13 +5,6 @@ PROBLEM_VERSION = "0.0"
 PROBLEM_AUTHORS = ['YASH MISHRA',
                    'JOSHUA CHOW' 'ASHWATH SRIKANTH', 'EDWARD ZHANG']
 PROBLEM_CREATION_DATE = "10-SEPTEMBER-2021"
-PROBLEM_DESC =\
-    '''P3 Milestone D for Wicked Problem: FOOD
-
-    NOTE:
-    Numbers currently in game (costs, food benefits, etc.) are set arbitrarily for now.
-    Research needed to make numbers realistic
-'''
 
 # </METADATA>
 
