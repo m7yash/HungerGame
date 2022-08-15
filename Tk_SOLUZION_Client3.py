@@ -1,31 +1,4 @@
 #!/usr/bin/python3
-"""Tk_SOLUZION_Client3.py
-    Works with the example files
-       Missionaries3.py
-         and
-       Missionaries3_VIS_FOR_TK3.py.
-
-Differences from Tk_SOLUZION_Client.py:
-
-1. Allows putting image file names in the array of colors
-  that was used in show_state_array.py, and attempts to
-  show the image, loading it into Tkinter if it has not already been
-  loaded and converted to a PhotoImage object.
-  (So in each element of the array of colors, you can either have
-  a color, given as an rgb triple as before, or a string giving an image filename.)
-
-2. Does not use the shell for user input. All user input is
-  in the Tkinter GUI window.  But diagnostic info and the help message still
-  comes to the shell.
-
-3. Operators are applied by selecting them from a drop-down "combo" box
-  and then clicking on the "Apply" button.
-
-4. Does not require a separate file show_state_array.py
-
-Last updated 17 Sept. 2019. --Steve Tanimoto
-
-    """
 
 # global variables for the problem and solving process:
 
