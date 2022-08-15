@@ -7,5 +7,5 @@ This game was made in collaboration with 3 other students at my university (Univ
 
 # How To Play
 - On this repository's main page, click 'Code' and then click 'Download ZIP'
-- To play with graphics, use command line to run ```python3 Tk_SOLUZION_Client3.py```. Note: you may need to run ```pip3 install Pillow``` to use this.
-- To play without graphics, use command line to run ```python3 Text_SOLUZION_Client.py```.
+- To play with graphics, use command line to run ```python3 Tk_SOLUZION_Client3.py``` in the downloaded folder. Note: you may need to run ```pip3 install Pillow``` to use this.
+- To play without graphics, use command line to run ```python3 Text_SOLUZION_Client.py``` in the downloaded folder.
