@@ -6,6 +6,6 @@ We recommend reading our [Player Manual](https://github.com/m7yash/HungerGame/bl
 This game was made in collaboration with 3 other students at my university (University of Washington) in 2021.
 
 # How To Play
-- Download ```Hunger.py``` and whichever client you want to use
-  - To play with graphics, download and run the Tk Client (note: you may need to run ```pip3 install Pillow``` to use this). The command is ```python3 Tk_SOLUZION_Client3.py```.
-  - To play without graphics, download and run the Text Client. The command is ```python3 Text_SOLUZION_Client.py```.
+- On this repository's main page, click 'Code' and then click 'Download ZIP'
+- To play with graphics, run the Tk Client in the downloaded folder (note: you may need to run ```pip3 install Pillow``` to use this). The command is ```python3 Tk_SOLUZION_Client3.py```.
+- To play without graphics, download and run the Text Client in the downloaded folder. The command is ```python3 Text_SOLUZION_Client.py```.
